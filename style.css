@@ -2,11 +2,13 @@
   box-sizing: border-box;
 }
 
+/* create a property to center align text*/
 .text-centered {
   text-align: center;
   font-family: consolas;
 }
 
+/* background for the web page */
 .dark-background {
   background-color: black;
   color: white;
@@ -19,6 +21,7 @@
   margin: auto;
 }
 
+/* customze how the images will display on the web page */
 img {
   display: block;
   width: 25%;
@@ -49,6 +52,8 @@ strong {
   color: green;
 }
 
+
+/* customize links to show up a cpecific way for each type */
 a:link {
   color: green;
   background-color: transparent;
